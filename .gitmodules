@@ -1,0 +1,3 @@
+[submodule "cinespoilers"]
+	path = cinespoilers
+	url = https://github.com/Ingaxgaramendi/cinespoilers.git
