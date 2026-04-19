@@ -7,7 +7,7 @@ API REST desarrollada con Django Rest Framework para la gestión de **Directores
 ## 👥 Integrantes
 
 * Anderson Jair Rivera Pucuhuayla
-* yojhan huancca
+* Yojhan Leodan Hunaca Yucra 
 
 ---
 
@@ -144,7 +144,25 @@ DELETE /api/directors/1/
 ---
 
 ## yojhan huancca 
+## 1. Crear Películas (POST)
 
+`POST /api/movies/`
+
+## 2. Listar Películas (GET)
+
+`GET /api/movies/`
+
+## 3. Ver Película por ID (GET)
+
+`GET /api/movies/{id}/`
+
+## 4. Actualizar Película (PUT)
+
+`PUT /api/movies/{id}/`
+
+## 5. Eliminar Película (DELETE)
+
+`DELETE /api/movies/{id}/`
 
 
 
