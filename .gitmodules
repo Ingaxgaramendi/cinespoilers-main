@@ -1,3 +1,6 @@
 [submodule "cinespoilers"]
 	path = cinespoilers
 	url = https://github.com/Ingaxgaramendi/cinespoilers.git
+[submodule "cinescape"]
+	path = cinescape
+	url = https://github.com/yojhanHuanca/cinescape.git
