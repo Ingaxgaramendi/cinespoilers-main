@@ -11,7 +11,8 @@ API REST desarrollada con Django Rest Framework para la gestión de **Directores
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## 🚀 Tecnologías utilizadas<img width="1148" height="764" alt="image" src="https://github.com/user-attachments/assets/ce80c57c-102c-4a71-92dc-d63c238aca88" />
+
 
 * Python
 * Django
@@ -143,26 +144,36 @@ DELETE /api/directors/1/
 ![DELETE Director](./docs/delete.png)
 ---
 
-## yojhan huancca 
-## 1. Crear Películas (POST)
+# Yojhan Huancca Yucra
 
-`POST /api/movies/`
+## Evidencias
 
-## 2. Listar Películas (GET)
+### 1. Listar Películas (GET)
+**Ruta:** `GET /api/movies/`  
+<img width="1411" height="677" alt="image" src="https://github.com/user-attachments/assets/f230cbff-cdaf-46f6-81ea-2e602caa8b60" />
 
-`GET /api/movies/`
+### 2. Crear Películas (POST)
+**Ruta:** `POST /api/movies/`  
+<img width="1718" height="853" alt="image" src="https://github.com/user-attachments/assets/c5fc2d86-bc32-4271-b90f-7c7c3a645d74" />
 
-## 3. Ver Película por ID (GET)
+### 3. Actualizar Películas (PUT)
+**Ruta:** `PUT /api/movies/{id}/`  
+<img width="1633" height="773" alt="image" src="https://github.com/user-attachments/assets/2d0dadb7-c3ab-4cab-92aa-a29e6136d728" />
 
-`GET /api/movies/{id}/`
+### 4. Actualización parcial (PATCH)
+**Ruta:** `PATCH /api/movies/{id}/`  
+<img width="1413" height="788" alt="image" src="https://github.com/user-attachments/assets/e89e68a8-d06f-4257-bc59-8702bb706186" />
 
-## 4. Actualizar Película (PUT)
+### 5. Eliminar Películas (DELETE)
+**Ruta:** `DELETE /api/movies/{id}/`  
+<img width="1421" height="695" alt="image" src="https://github.com/user-attachments/assets/80f78ed7-e6a1-4c05-babf-a13ff75d15a4" />
 
-`PUT /api/movies/{id}/`
+### 6. Data Base
+<img width="1877" height="647" alt="image" src="https://github.com/user-attachments/assets/684db0eb-8fe7-49df-810d-1d780a01c146" />
 
-## 5. Eliminar Película (DELETE)
 
-`DELETE /api/movies/{id}/`
+
+
 
 
 
