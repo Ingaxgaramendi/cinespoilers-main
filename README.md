@@ -1,14 +1,10 @@
-<img width="1896" height="1075" alt="image" src="https://github.com/user-attachments/assets/23106515-fe54-4c1f-b806-66828862eb34" /># 🎬 CINESPOILERS API - DIRECTORES
+<img width="1896" height="1075" alt="image" src="https://github.com/user-attachments/assets/23106515-fe54-4c1f-b806-66828862eb34"
 
-API REST desarrollada con Django Rest Framework para la gestión de **Directores**.
-
----
-
-## 👥 Integrantes
+## Integrantes
 
 * Anderson Jair Rivera Pucuhuayla
 * Yojhan Leodan Hunaca Yucra
-* 
+
 ---
 
 #  PRUEBAS CON THUNDER CLIENT
