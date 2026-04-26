@@ -4,3 +4,6 @@
 [submodule "cinescape"]
 	path = cinescape
 	url = https://github.com/yojhanHuanca/cinescape.git
+[submodule "cine-infinito"]
+	path = cine-infinito
+	url = https://github.com/eduardoquiquia/CineSpoilers.git
