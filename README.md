@@ -55,30 +55,38 @@ API REST desarrollada con Django Rest Framework para la gestión de **Directores
 ### 6. Data Base
 <img width="1877" height="647" alt="image" src="https://github.com/user-attachments/assets/684db0eb-8fe7-49df-810d-1d780a01c146" />
 
+
 ## Genres
+
+### 3. Listar Genres  (GET)
 **Ruta:** `GET /api/genres/`
 <img width="1909" height="1020" alt="image" src="https://github.com/user-attachments/assets/65a74e02-f4bd-4f7f-8c4b-e47abd814dbb" />
 
+### 2. Crear Genres (POST)
 **Ruta:** `POST /api/genres/`
 <img width="1904" height="1078" alt="image" src="https://github.com/user-attachments/assets/5f8f9d8e-856e-4315-95be-00edaf8a3133" />
 
+### 3. Listar Genres  (GET)
 **Ruta:** `GET /api/genres/1/`
 <img width="1919" height="1057" alt="image" src="https://github.com/user-attachments/assets/49f5bb71-bf6b-4489-927d-70a722e44139" />
 
-
+### 4. Actualizar Genres (PUT)
 **Ruta:** `PUT /api/genres/2/`
 <img width="1883" height="1079" alt="image" src="https://github.com/user-attachments/assets/db313f49-8fff-4174-a689-35cf35241369" />
 
+### 5. Actualización parcial (PATCH)
 **Ruta:** `PATCH /api/genres/1/`
 <img width="1912" height="1079" alt="image" src="https://github.com/user-attachments/assets/4064d1d3-a193-4b70-b3ab-3aa6d4cd7b8c" />
 
+### 6. Eliminar Genres (DELETE)
 **Ruta:** `DELETE /api/genres/3/`
 <img width="1898" height="1070" alt="image" src="https://github.com/user-attachments/assets/ed012a14-519b-4623-a8db-829bc7e56a50" />
 
+### 7. Listar Genres  (GET)
 **Ruta:** `GET /api/genres/3/`
 <img width="1420" height="1051" alt="image" src="https://github.com/user-attachments/assets/d49ce635-c74a-4c16-aca8-b8f00c110c4c" />
 
-### 6. Data Base
+### 8. Data Base
 <img width="1896" height="1075" alt="image" src="https://github.com/user-attachments/assets/15494900-2ec2-4f5d-a369-bff6a8ac2fc4" />
 
 
