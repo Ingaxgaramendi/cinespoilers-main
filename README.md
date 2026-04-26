@@ -11,46 +11,21 @@ API REST desarrollada con Django Rest Framework para la gestión de **Directores
 
 ---
 
-## 🚀 Tecnologías utilizadas<img width="1148" height="764" alt="image" src="https://github.com/user-attachments/assets/ce80c57c-102c-4a71-92dc-d63c238aca88" />
+<img width="1148" height="764" alt="image" src="https://github.com/user-attachments/assets/ce80c57c-102c-4a71-92dc-d63c238aca88" />
 
 
-* Python
-* Django
-* Django Rest Framework
-* SQLite
-* Thunder Client (VS Code)
-* Git & GitHub
-
----
-
-## 🧠 Descripción
-
-Este módulo permite realizar operaciones CRUD sobre la entidad **Director**, incluyendo validaciones y pruebas mediante Thunder Client.
-
----
-
-## 🧱 Modelo Director
-
-Campos:
-
-* `name` → Nombre del director
-* `nationality` → Nacionalidad
-* `birth_date` → Fecha de nacimiento
-
----
-
-## 🔗 Endpoint Base
-
-```id="ep1"
-http://127.0.0.1:8000/api/directors/
-```
-
----
 
 #  PRUEBAS CON THUNDER CLIENT
 ## Anderson rivera 
 ### 1. Listar generos (GET)
 ![POST Director](./docs/genres.png)
+### 2. Crear movies with genre  (POST)
+![POST Director](./docs/post_movieswithgenre.png)
+
+### 3 . Listar peliculas  (GET)
+![POST Director](./docs/movies_genre.png)
+### 4 . Crear genero   (POST)
+![POST Director](./docs/post_genre.png)
 
 
 # Yojhan Huancca Yucra
