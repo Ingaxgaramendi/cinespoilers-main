@@ -7,13 +7,9 @@ API REST desarrollada con Django Rest Framework para la gestión de **Directores
 ## 👥 Integrantes
 
 * Anderson Jair Rivera Pucuhuayla
-* Yojhan Leodan Hunaca Yucra 
-
+* Yojhan Leodan Hunaca Yucra
+* 
 ---
-
-<img width="1148" height="764" alt="image" src="https://github.com/user-attachments/assets/ce80c57c-102c-4a71-92dc-d63c238aca88" />
-
-
 
 #  PRUEBAS CON THUNDER CLIENT
 ## Anderson rivera 
@@ -27,6 +23,11 @@ API REST desarrollada con Django Rest Framework para la gestión de **Directores
 ### 4 . Crear genero   (POST)
 ![POST Director](./docs/post_genre.png)
 
+### 5 . Vista usando generos  
+![POST Director](./docs/frontend.png)
+
+### 6 . Filtro por generos  
+![POST Director](./docs/filtroporgeneros.png)
 
 # Yojhan Huancca Yucra
 
