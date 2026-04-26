@@ -1,4 +1,4 @@
-<img width="1896" height="1075" alt="image" src="https://github.com/user-attachments/assets/23106515-fe54-4c1f-b806-66828862eb34"
+<img width="1896" height="1075" alt="image" src="https://github.com/user-attachments/assets/23106515-fe54-4c1f-b806-66828862eb34">
 
 ## Integrantes
 
